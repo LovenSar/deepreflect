@@ -14,7 +14,7 @@ class DR(object):
 
         self.normalizeFN = normalizeFN
 
-        self.max_len = max_len
+        self.max_len = max_lenji
 
         label_set = set()
 
